@@ -81,6 +81,7 @@ form {
   animation-name: change;
   animation-duration: 25s;
   width: 50em;
+  margin-left: 50px;
 }
 
 #mil {
